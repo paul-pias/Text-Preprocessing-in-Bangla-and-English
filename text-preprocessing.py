@@ -7,6 +7,8 @@ This tool accepts comma separated value files (.csv) as well as excel
 
 This script requires that `pandas`,'nlltk', 'cltk', 'textblob' be installed within the Python
 environment you are running this script in.
+
+@author Pias Paul
 """
 
 
