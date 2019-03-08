@@ -54,8 +54,8 @@ Some manual installation may required for some ntlk libraries.
 ->Based on the input texts and the required normalization procedure pre-processing techniques were implied.
 ->From the output form of preprocessed text again two dataframes were created to insert the preprocessed data to an excel file.
 
-### Development
-[References] 
+### [References] 
+
 [Text Preprocessing in Python: Steps, Tools, and Examples](https://www.medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
 
 **Thank You!**
