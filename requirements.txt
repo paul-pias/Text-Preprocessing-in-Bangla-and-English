@@ -1,0 +1,7 @@
+XlsxWriter == 1.1.5
+bangla == 0.0.2
+cltk == 0.1.105
+nltk == 3.4
+panda == 0.3.1
+pandas == 0.23.4
+textblob = 0.15.3
